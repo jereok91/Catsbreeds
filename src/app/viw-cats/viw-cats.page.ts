@@ -17,7 +17,6 @@ export class ViwCatsPage {
   }
 
   errorImagen (e:any){
-    console.log('error', e, typeof e);
     e.target.src = './assets/img/default.jpg';
   }
 }
