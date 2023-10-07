@@ -1,0 +1,7 @@
+{
+  "name": "prueba_pragma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
